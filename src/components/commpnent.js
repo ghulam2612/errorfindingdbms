@@ -1,0 +1,6 @@
+export {default as Features} from "./Features/Features"
+export {default as Footer} from "./Footer/Footer"
+export {default as Hero} from "./Hero/Hero"
+export {default as Offers} from "./Offers/Offers"
+export {default as RecentlyAdded} from "./RecentlyAdded/RecentlyAdded"
+export {default as Navbar} from "./Navbar/Navbar"
